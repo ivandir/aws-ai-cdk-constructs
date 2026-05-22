@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# CDK
+cdk.out/
+.cdk.staging/
+cdk.context.json
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
